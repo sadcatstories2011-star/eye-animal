@@ -1,0 +1,8 @@
+{
+  "name": "Eye Animal",
+  "description": "An AI-powered application to identify animals, provide detailed insights, and generate similar visuals.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
